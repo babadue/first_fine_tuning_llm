@@ -30,8 +30,8 @@
 ## Samples Outputs:
 <br/>
 <p> 
-<img src="https://github.com/babadue/first_fine_tuning_llm/blob/main/images/Screenshot%202024-01-26%20124211.png?raw=true" width="80%">
-<img src="https://github.com/babadue/first_fine_tuning_llm/blob/main/images/Screenshot%202024-01-26%20124245.png?raw=true" width="80%">
+<img src="https://github.com/babadue/first_fine_tuning_llm/blob/main/images/Screenshot%202024-01-26%20124211.png?raw=true" width="95%">
+<img src="https://github.com/babadue/first_fine_tuning_llm/blob/main/images/Screenshot%202024-01-26%20124245.png?raw=true" width="95%">
 </p>
 
 
