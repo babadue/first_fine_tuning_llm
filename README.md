@@ -6,7 +6,7 @@
 
 ## Purposes:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To demonstrate a very simple fine-tuning steps for a LLM model.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To demonstrate a very simple specific domain fine-tuning steps for a LLM model.
 
 
 ## File Descriptions
@@ -27,7 +27,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project is provided "as is" and without any warranty. Use it at your own risk. 
     
-## Samples Outputs:
+## Outputs:
 <br/>
 <p> 
 <img src="https://github.com/babadue/first_fine_tuning_llm/blob/main/images/Screenshot%202024-01-26%20124211.png?raw=true" width="95%">
