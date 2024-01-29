@@ -21,7 +21,7 @@
 
 ## Contributors 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The script is based on the online class "Generative AI with Large Language Models" from Coursera.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The scripts are based on the online class "Generative AI with Large Language Models" from Coursera.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ChatGPT-3.5 the coding machine!
 
