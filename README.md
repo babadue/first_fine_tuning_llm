@@ -2,7 +2,7 @@
 
 ## Description:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A simple fine-tuning lab on the Flan-T5-base model using both full fine tuning and PEFT.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A simple fine-tuning lab on the Flan-T5-base model using both full fine-tuning and PEFT (Parameter-Efficient Fine-Tuning).
 
 ## Purposes:
 
@@ -15,7 +15,9 @@
 
 - **`myfirstfinetuning_flant5_peft.ipynb`**: A simple PEFT for the Flan-T5 model lab in Jupyter Notebook
 
-- **`testing.ipynb`**:  Inferring test in Jupyter Notebook.
+- **`testing_full.ipynb`**:  Inferring test for full fine-tuning  model in Jupyter Notebook.
+
+- **`testing_peft.ipynb`**:  Inferring test for PEFT model in Jupyter Notebook.
 
 ## Contributors 
 
